@@ -1,0 +1,16 @@
+client_id,spend_gbp,last_visit,contact_date,method,result,followup_date,notes
+Client 001,"£5,062",2025-09-13,2026-04-15,Email + WhatsApp,No Response,2026-04-29,2nd follow-up sent
+Client 003,"£3,279",2025-09-12,2026-04-15,Email + WhatsApp,Booked/Replied,,Stopped doing nails herself — convinced to return
+Client 005,"£2,682",2025-10-16,2026-04-16,Email,Sent,2026-04-30,Awaiting reply
+Client 007,"£2,910",2025-09-29,2026-04-10,WhatsApp,Replied,,She liked everything — working on re-booking
+Client 010,"£2,591",2026-03-26,2026-04-18,Phone call,Booked,,Booked April 23 — confirmed
+Client 021,"£2,002",2025-09-27,2026-04-12,Email + WhatsApp,No Response,2026-04-26,Regular at another location — monitoring
+Client 033,"£3,096",2026-04-19,2026-04-20,Check in system,Not Lost Client,,Confirmed still active — removed from lapsed list
+Client 038,"£2,591",2026-03-26,2026-04-15,WhatsApp,Booked,,Booked April 23
+Client 048,"£1,970",2026-05-25,2026-04-20,WhatsApp,Booked/Replied,,Booked for 25.04
+Client 051,"£1,879",2026-03-23,2026-04-14,Email,No Response,2026-04-28,Left negative review — sensitive follow-up needed
+Client 057,"£1,779",2026-03-23,2026-04-17,WhatsApp,Not Lost Client,,Booked April 23 — confirmed active
+Client 084,"£1,046",2026-03-08,2026-04-22,Phone call,Booked,,Booked May 3
+Client 091,£998,2026-03-22,2026-04-20,WhatsApp,Booked,,Booked April 25
+Client 095,£961,2026-03-03,2026-04-16,Email,Replied,,Happy with last visit — re-engaging
+Client 104,£925,2026-03-23,2026-04-18,WhatsApp,Replied,,Said no need to call — will book herself
