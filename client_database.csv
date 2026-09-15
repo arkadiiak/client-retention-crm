@@ -1,0 +1,119 @@
+client_id,spend_gbp,visits,first_visit,last_visit,contact_result,comment
+Client 001,"£5,062",88,2023-01-08,2025-09-13,Booked/Replied,"Sent, replied, booked"
+Client 002,"£4,765",73,2023-05-07,2025-09-26,No Response,"It is not a lost client, has new number"
+Client 003,"£3,279",56,2023-05-22,2025-09-12,Booked/Replied,Stopped visiting — started doing nails herself
+Client 004,"£3,323",54,2023-02-13,2025-09-11,Sent,
+Client 005,"£2,682",53,2023-05-30,2025-10-16,Sent,
+Client 006,"£2,729",50,2023-01-07,2025-11-15,No Response,
+Client 007,"£2,158",44,2023-01-10,2025-09-29,Sent,
+Client 008,"£2,173",39,2023-04-16,2025-09-09,Sent,
+Client 009,"£2,258",38,2023-01-15,2025-09-27,Sent,
+Client 010,"£2,319",37,2023-12-14,2025-05-12,Sent,
+Client 011,"£2,364",37,2024-03-22,2025-11-10,Booked/Replied,Not in UK
+Client 012,"£2,191",37,2023-09-25,2025-10-02,Sent,
+Client 013,"£2,133",37,2023-03-15,2025-09-16,Sent,
+Client 014,"£2,289",36,2023-03-30,2025-09-11,Sent,
+Client 015,"£1,743",35,2023-05-21,2025-09-28,Sent,
+Client 016,"£2,119",35,2024-05-12,2025-10-13,No Response,"A regular client, has another number"
+Client 017,"£2,077",34,2023-01-20,2025-01-15,Sent,Left UK
+Client 018,"£2,017",34,2023-03-01,2025-10-13,Sent,
+Client 019,"£2,212",34,2023-10-16,2025-10-27,Sent,SMS
+Client 020,"£2,021",33,2023-10-20,2025-09-26,Sent,
+Client 021,"£2,002",29,2023-09-30,2025-09-27,No Response,She is a regular client at Covent Garden
+Client 022,"£1,077",29,2024-06-06,2025-09-26,Sent,SMS
+Client 023,"£1,207",29,2023-05-15,2025-09-05,Booked/Replied,
+Client 024,"£1,722",28,2022-04-22,2025-09-26,Sent,
+Client 025,"£1,509",25,2024-03-25,2025-09-18,No Response,She is not a lost client
+Client 026,"£1,411",24,2023-11-02,2025-09-05,No Response,This number is no longer available
+Client 027,"£1,375",23,2024-04-02,2025-10-31,Sent,
+Client 028,"£1,396",23,2023-08-30,2025-09-08,Booked/Replied,
+Client 029,"£5,632",41,08/03/2024,23/06/2026,No Response,"No answer, sent email and WhatsApp"
+Client 030,"£3,684",43,15/03/2024,23/06/2026,No Response,"No answer, sent email and WhatsApp"
+Client 031,"£3,531",40,08/03/2024,17/03/2026,No Response,"No answer, sent email message"
+Client 032,"£3,141",47,03/02/2024,18/03/2026,No Response,"No answer, sent email message"
+Client 033,"£3,096",55,27/03/2024,19/04/2026,Not Lost Client,Last visit on April 19
+Client 034,"£3,017",37,02/05/2024,22/05/2026,No Response,"No answer, sent email and WhatsApp"
+Client 035,"£2,910",27,05/04/2024,19/03/2026,Replied,She said she liked everything
+Client 036,"£2,764",39,26/03/2024,28/03/2026,Replied,She said everything was great
+Client 037,"£2,661",60,26/03/2024,26/03/2026,Not Lost Client,Last visit on April 11
+Client 038,"£2,591",37,12/03/2024,26/03/2026,Booked,Booked on April 23
+Client 039,"£2,503",56,14/04/2024,17/03/2026,Replied,She said she was fine
+Client 040,"£2,480",32,04/06/2024,28/02/2026,Not Lost Client,Confirmed not lost
+Client 041,"£2,440",23,13/11/2024,28/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 042,"£2,240",26,10/07/2024,06/03/2026,Replied,She said to change the booking system
+Client 043,"£2,194",25,12/09/2024,06/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 044,"£2,099",24,12/03/2024,01/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 045,"£2,096",25,10/12/2024,25/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 046,"£2,042",23,28/03/2024,12/03/2026,Not Lost Client,Last visit April 20
+Client 047,"£2,039",24,27/04/2024,24/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 048,"£1,970",27,25/03/2024,25/05/2026,Booked/Replied,Booked for 25.04
+Client 049,"£1,918",17,06/03/2024,16/03/2026,No Response,"No answer, sent email message"
+Client 050,"£1,889",20,15/07/2024,22/03/2026,Not Lost Client,Last visit April 18. Booked May 6
+Client 051,"£1,879",23,16/10/2024,23/03/2026,No Response,Left a negative review on Zenoti
+Client 052,"£1,871",28,28/08/2024,29/03/2026,Not Lost Client,Last visit April 21
+Client 053,"£1,857",34,27/04/2024,29/03/2026,Not Lost Client,Last visit April 21
+Client 054,"£1,844",19,18/01/2025,10/03/2026,Not Lost Client,Last visit April 21
+Client 055,"£1,840",25,29/12/2024,23/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 056,"£1,790",23,18/11/2024,16/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 057,"£1,779",20,28/05/2024,23/03/2026,Not Lost Client,Booked on April 23
+Client 058,"£1,763",21,06/05/2024,30/03/2026,Not Lost Client,Last visit April 16
+Client 059,"£1,720",27,07/03/2024,28/02/2026,No Response,"No answer, sent email and WhatsApp"
+Client 060,"£1,711",28,07/06/2024,28/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 061,"£1,311",17,20/10/2024,16/03/2026,Not Lost Client,Last visit April 21
+Client 062,"£1,297",24,17/09/2024,24/03/2026,Replied,Not in London right now
+Client 063,"£1,215",16,20/07/2024,22/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 064,"£1,212",21,16/05/2024,19/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 065,"£1,206",23,05/10/2024,21/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 066,"£1,204",19,06/05/2024,18/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 067,"£1,199",20,09/03/2024,11/05/2026,Replied,She wasn't very happy with something
+Client 068,"£1,190",10,22/04/2025,01/03/2026,No Response,There is no information about this person
+Client 069,"£1,183",13,22/06/2025,26/03/2026,Booked/Replied,Booked on May 5
+Client 070,"£1,153",13,12/04/2024,03/03/2026,Not Lost Client,Last visit April 22
+Client 071,"£1,150",11,27/03/2025,27/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 072,"£1,148",11,18/01/2025,28/02/2026,No Response,There is no information about this person
+Client 073,"£1,146",17,25/04/2024,28/03/2026,Booked/Replied,Booked on May 1
+Client 074,"£1,125",13,13/11/2025,20/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 075,"£1,115",14,29/09/2024,29/03/2026,No Response,"No answer, sent email message"
+Client 076,"£1,111",13,06/10/2025,17/03/2026,Booked/Replied,Booked on May 11
+Client 077,"£1,108",9,09/03/2025,21/03/2026,Not Lost Client,Last visit April 19
+Client 078,"£1,099",20,27/03/2025,27/03/2026,Replied,She was happy with last appointment
+Client 079,"£1,095",14,18/03/2025,17/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 080,"£1,082",15,18/03/2025,07/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 081,"£1,071",16,26/03/2024,07/03/2026,Replied,She was happy with her last visit
+Client 082,"£1,065",8,30/07/2024,28/03/2026,Replied,She was really happy with her last visit
+Client 083,"£1,054",15,28/03/2025,02/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 084,"£1,046",15,25/03/2025,08/03/2026,Booked,Booked on May 3
+Client 085,"£1,046",17,16/04/2024,01/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 086,"£1,039",16,17/06/2024,23/03/2026,Not Lost Client,Had an appointment booked
+Client 087,"£1,033",16,02/04/2024,14/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 088,"£1,032",14,29/03/2025,30/03/2026,Not Lost Client,Last visit April 18
+Client 089,"£1,014",11,29/03/2025,27/03/2026,Booked,Booked on May 8
+Client 090,"£1,009",15,25/07/2025,19/03/2026,Not Lost Client,Last visit April 19
+Client 091,£998,12,28/09/2024,22/03/2026,Booked,Booked on April 25
+Client 092,£994,10,21/03/2025,21/03/2026,No Response,"No answer, sent email message"
+Client 093,£978,15,26/03/2024,03/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 094,£964,8,13/02/2025,26/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 095,£961,11,20/04/2024,03/03/2026,Replied,She was happy with her last visit
+Client 096,£961,7,14/09/2025,23/04/2026,Booked/Replied,Booked on April 23
+Client 097,£950,13,09/03/2024,08/03/2026,No Response,"No answer, sent email message"
+Client 098,£949,20,06/03/2024,02/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 099,£939,14,25/09/2024,30/03/2026,No Response,"No answer, sent email message"
+Client 100,£935,11,19/12/2024,02/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 101,£934,13,18/03/2025,23/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 102,£934,13,07/06/2024,12/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 103,£929,13,10/12/2024,23/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 104,£925,13,15/03/2025,23/03/2026,Replied,She said there was no need to call her
+Client 105,£922,14,24/03/2025,23/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 106,£919,14,07/03/2025,28/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 107,£916,10,31/12/2024,05/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 108,£912,14,10/05/2024,25/03/2026,Booked/Replied,Booked on April 24
+Client 109,£904,15,25/04/2024,25/03/2026,Booked/Replied,Booked on April 23
+Client 110,£903,12,09/06/2025,25/03/2026,Booked/Replied,Booked on April 25
+Client 111,£890,10,18/03/2024,28/02/2026,No Response,"No answer, sent email and WhatsApp"
+Client 112,£880,8,24/02/2024,21/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 113,£872,8,06/10/2025,28/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 114,£870,9,21/06/2025,19/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 115,£840,11,28/07/2024,22/03/2026,No Response,"No answer, sent email and WhatsApp"
+Client 116,£838,11,27/03/2025,22/03/2026,Not Lost Client,Last visit April 18
+Client 117,£836,13,07/03/2024,28/02/2026,No Response,"No answer, sent email and WhatsApp"
+Client 118,£834,8,28/03/2025,28/03/2026,No Response,"No answer, sent email and WhatsApp"
